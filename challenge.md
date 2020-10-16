@@ -1,6 +1,6 @@
-# Join the challenge.
+# Want to buy player? Increase the limit of repetitions?
 
-### Want to buy player? Increase the limit of repetitions?
+### Join the challenge.
 * More than 300 subscribers on my YouTube channel
 * Over 900 likes on YouTube video
 * More than 100 subscribers on my Twitter
