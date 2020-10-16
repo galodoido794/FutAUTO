@@ -5,3 +5,7 @@
 * Over 900 likes on YouTube video
 * More than 100 subscribers on my Twitter
 * Over 600 grade 5 reviews on Google play
+
+Twitter: https://twitter.com/GaloDoido794
+
+Youtube: https://www.youtube.com/channel/UChZvqskril2E3OnNN6c7_eg
