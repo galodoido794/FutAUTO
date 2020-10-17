@@ -25,11 +25,11 @@ APP to facilitate transactions in Ultimate Team (Fifa 2021).
 * Version Fifa 2019: https://youtu.be/rCc-JsW75n0
 * Questions and issues from the previous version: https://github.com/galodoido794/AUTOBOT_FIFAX/issues?q=
 
-### Run Windows
-* https://autobotfifax.blogspot.com/2019/10/run-futauto-with-emulator-android.html
-
 ### Comments also on Github : 
 * https://github.com/galodoido794/FutAUTO/issues
+
+### Run Windows (with Emulator Android)
+* https://autobotfifax.blogspot.com/2019/10/run-futauto-with-emulator-android.html
 
 ### Help BOT
 With your help I can develop more features and create new BOTs (for other games): 
