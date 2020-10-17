@@ -15,7 +15,7 @@ APP to facilitate transactions in Ultimate Team (Fifa 2021).
 * https://youtu.be/-kS80cCUlvg
 
 ### Features
-* Bid, Buy and sell (Position Change, Chemistry Styles, Squad Fitness +30)   
+* Bid, Buy and sell (Position Change, Chemistry Styles, Contracts)   
 * Search Players (Join Challenge) : https://github.com/galodoido794/FutAUTO/blob/main/challenge.md
 * Interval Searchs
 * Stop after buying
@@ -24,11 +24,11 @@ APP to facilitate transactions in Ultimate Team (Fifa 2021).
 ### It´s Works?
 See the comments the previous version: https://www.youtube.com/watch?v=rCc-JsW75n0
 
-### How to buy a player?
-* https://autobotfifax.blogspot.com/2019/10/how-to-buy-player-with-futauto.html
+### How to buy a player? Join Challenge
+* https://github.com/galodoido794/FutAUTO/blob/main/challenge.md
 
-### Comments also on Github: 
-* https://github.com/galodoido794/AUTOBOT_FIFAX/issues?q=is%3Aissue+is%3Aclosed
+### Comments also on Github : 
+* https://github.com/galodoido794/FutAUTO/issues
 
 ### Help BOT
 With your help I can develop more features and create new BOTs (for other games): 
