@@ -14,8 +14,8 @@ APP to facilitate transactions in Ultimate Team (Fifa 2021).
 ### Run Windows
 * https://autobotfifax.blogspot.com/2019/10/run-futauto-with-emulator-android.html
 
-### Youtube (FutAUTO - Fifa2020)
-* https://youtu.be/a3nJh2dHxm4
+### Youtube (FutAUTO - Fifa2021)
+* https://youtu.be/-kS80cCUlvg
 
 ### Features
 * Buy and sell (Position Change, Chemistry Styles, Squad Fitness +30)   
