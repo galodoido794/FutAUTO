@@ -2,14 +2,11 @@
 
 ### Join the challenge.
 * More than 300 subscribers on my YouTube channel
-* Over 900 likes on YouTube video
-Youtube: https://youtu.be/-kS80cCUlvg
+* Over 900 likes on YouTube video: https://youtu.be/-kS80cCUlvg
 
-* More than 100 subscribers on my Twitter
-Twitter: https://twitter.com/GaloDoido794
+* More than 100 subscribers on my Twitter: https://twitter.com/GaloDoido794
 
-* Over 600 grade 5 reviews on Google play
-
+* Over 600 grade 5 reviews on Google play: XXXXXXXX
 
 
 Patreon: https://www.patreon.com/galodoido
