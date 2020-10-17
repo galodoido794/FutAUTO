@@ -9,7 +9,7 @@ APP to facilitate transactions in Ultimate Team (Fifa 2021).
 * https://bit.ly/30nM2Ol
 
 ### Download (Android)
-* Wait for version 2021
+* Waiting for Google to release the publication ....
 
 ### Run Windows
 * https://autobotfifax.blogspot.com/2019/10/run-futauto-with-emulator-android.html
