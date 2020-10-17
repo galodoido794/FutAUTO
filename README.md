@@ -3,13 +3,8 @@ Works Platforms (PC, XBOX, PS4).
 
 APP to facilitate transactions in Ultimate Team (Fifa 2021).
 
-# FIFA 2021 As I do not have early access I will try to upload the first version on October 17th
-
 ### Download (Android)
-* Waiting for Google to release the publication ....
-
-### Run Windows
-* https://autobotfifax.blogspot.com/2019/10/run-futauto-with-emulator-android.html
+* Waiting for GOOGLE to release the publication ....
 
 ### Youtube (FutAUTO - Fifa2021)
 * https://youtu.be/-kS80cCUlvg
@@ -26,6 +21,9 @@ See the comments the previous version: https://www.youtube.com/watch?v=rCc-JsW75
 
 ### How to buy a player? Join Challenge
 * https://github.com/galodoido794/FutAUTO/blob/main/challenge.md
+
+### Run Windows
+* https://autobotfifax.blogspot.com/2019/10/run-futauto-with-emulator-android.html
 
 ### Comments also on Github : 
 * https://github.com/galodoido794/FutAUTO/issues
