@@ -8,6 +8,6 @@
 
 Twitter: https://twitter.com/GaloDoido794
 
-Youtube: https://www.youtube.com/channel/UChZvqskril2E3OnNN6c7_eg
+Youtube: https://youtu.be/-kS80cCUlvg
 
 Patreon: https://www.patreon.com/galodoido
