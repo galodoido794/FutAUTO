@@ -16,11 +16,14 @@ APP to facilitate transactions in Ultimate Team (Fifa 2021).
 * Stop after buying
 * Platforms (PC, XBOX, PS)
 
-### It´s Works?
-See the comments the previous version: https://www.youtube.com/watch?v=rCc-JsW75n0
-
 ### How to buy a player? Join Challenge
 * https://github.com/galodoido794/FutAUTO/blob/main/challenge.md
+
+### It´s Works?
+See the comments the previous version.
+Version Fifa 2020: https://youtu.be/a3nJh2dHxm4
+Version Fifa 2019: https://youtu.be/rCc-JsW75n0
+Questions and issues from the previous version: https://github.com/galodoido794/AUTOBOT_FIFAX/issues?q=
 
 ### Run Windows
 * https://autobotfifax.blogspot.com/2019/10/run-futauto-with-emulator-android.html
