@@ -5,9 +5,6 @@ APP to facilitate transactions in Ultimate Team (Fifa 2021).
 
 # FIFA 2021 As I do not have early access I will try to upload the first version on October 17th
 
-### I'm accepting suggestions
-* https://bit.ly/30nM2Ol
-
 ### Download (Android)
 * Waiting for Google to release the publication ....
 
@@ -18,8 +15,8 @@ APP to facilitate transactions in Ultimate Team (Fifa 2021).
 * https://youtu.be/-kS80cCUlvg
 
 ### Features
-* Buy and sell (Position Change, Chemistry Styles, Squad Fitness +30)   
-* Search Players (BETA)
+* Bid, Buy and sell (Position Change, Chemistry Styles, Squad Fitness +30)   
+* Search Players (Join Challenge) : https://github.com/galodoido794/FutAUTO/blob/main/challenge.md
 * Interval Searchs
 * Stop after buying
 * Platforms (PC, XBOX, PS)
