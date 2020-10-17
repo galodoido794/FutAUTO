@@ -6,7 +6,7 @@
 
 * More than 100 subscribers on my Twitter: https://twitter.com/GaloDoido794
 
-* Over 600 grade 5 reviews on Google play: XXXXXXXX
+* Over 600 grade 5 reviews on Google play: I'm waiting on Google to release in the store.
 
 
 Patreon: https://www.patreon.com/galodoido
