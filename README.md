@@ -6,6 +6,7 @@ APP to facilitate transactions in Ultimate Team (Fifa 2021).
 ### Download (Android)
 * <b> Waiting for GOOGLE to release the publication .... </b>
 * Update under review    (submitted Oct 16, 2020 7:38 PM)
+* Depending on what I'm going to publish in another store (because Google says that times are high because of COVID)
 
 ### Youtube (FutAUTO - Fifa2021)
 * https://youtu.be/-kS80cCUlvg
