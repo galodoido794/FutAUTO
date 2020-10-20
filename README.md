@@ -4,9 +4,10 @@ Works Platforms (PC, XBOX, PS4).
 APP to facilitate transactions in Ultimate Team (Fifa 2021).
 
 ### Download (Android)
-* <b> Waiting for GOOGLE to release the publication .... </b>
-* Update under review    (submitted Oct 16, 2020 7:38 PM)
-* Depending on what I'm going to publish in another store (because Google says that times are high because of COVID)
+* Download APK: https://filebin.net/wsiui4eeibxq4vt2
+* No Virus: https://www.virustotal.com/gui/file/f7d18ce2cf287195f13a2baa4f0c8c428f10aab6c0d634ab213495249c1483c8/details
+
+* Windows Platform: In a near future
 
 ### Youtube (FutAUTO - Fifa2021)
 * https://youtu.be/-kS80cCUlvg
