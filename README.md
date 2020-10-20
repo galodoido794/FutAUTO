@@ -5,6 +5,7 @@ APP to facilitate transactions in Ultimate Team (Fifa 2021).
 
 ### Download (Android & Windows)
 * Download APK (when downloading rename the extension to .APK) https://filebin.net/iwh577ydhjvb2etb
+* Link Alternative : https://gofile.io/d/0AUpuA
 
 * Windows Platform: In a near future
 
