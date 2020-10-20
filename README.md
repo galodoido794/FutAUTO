@@ -4,8 +4,7 @@ Works Platforms (PC, XBOX, PS4).
 APP to facilitate transactions in Ultimate Team (Fifa 2021).
 
 ### Download (Android & Windows)
-* Download APK: https://filebin.net/iwh577ydhjvb2etb
-* When downloading rename the extension to .APK
+* Download APK (when downloading rename the extension to .APK) https://filebin.net/iwh577ydhjvb2etb
 
 * Windows Platform: In a near future
 
