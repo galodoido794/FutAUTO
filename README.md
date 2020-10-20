@@ -23,8 +23,8 @@ APP to facilitate transactions in Ultimate Team (Fifa 2021).
 * https://github.com/galodoido794/FutAUTO/blob/main/challenge.md
 
 ### It´s Works?
-* Version Fifa 2020: https://youtu.be/a3nJh2dHxm4
-* Version Fifa 2019: https://youtu.be/rCc-JsW75n0
+* Version Fifa 2020 (android): https://youtu.be/a3nJh2dHxm4
+* Version Fifa 2019 (windows): https://youtu.be/rCc-JsW75n0
 * Questions and issues from the previous version: https://github.com/galodoido794/AUTOBOT_FIFAX/issues?q=
 * See the comments the previous version.
 ![alt text](https://github.com/galodoido794/FutAUTO/blob/main/Rank3.png?raw=true)
