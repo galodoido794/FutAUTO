@@ -1,4 +1,7 @@
-# FutAuto (FIFA SNIPING BOT) - Totally free
+# The project is STOPPED and without updates.
+# O projeto encontra-se PARADO e sem atualizações. 
+
+# FutAuto (FIFA 21 SNIPING BOT) - Totally free
 Works Platforms (PC, XBOX, PS4).
 
 APP to facilitate transactions in Ultimate Team (Fifa 2021).
