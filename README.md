@@ -1,5 +1,4 @@
 # The project is STOPPED and without updates.
-# O projeto encontra-se PARADO e sem atualizações. 
 
 # FutAuto (FIFA 21 SNIPING BOT) - Totally free
 Works Platforms (PC, XBOX, PS4).
